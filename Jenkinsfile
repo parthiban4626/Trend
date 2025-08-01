@@ -47,7 +47,7 @@ pipeline {
             }
         }
     }
-[O
+[O
     post {
         failure {
             echo 'Build failed.'
